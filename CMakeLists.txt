@@ -7,6 +7,8 @@ add_message_files(
   DIRECTORY msg
   FILES
   Marker.msg
+  Fiducial.msg
+  FiducialDetection.msg
   MarkerDetection.msg
   MarkerStamped.msg
   MarkerWithCovariance.msg
