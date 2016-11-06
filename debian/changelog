@@ -1,0 +1,41 @@
+ros-jade-marker-msgs (0.0.5-0utopic) utopic; urgency=high
+
+  * new msgs
+  * Removed MarkerCandidate messages. Use Fiducial.msg and FiducialDetection.msg instead.
+  * Changed MarkerCandidate* to Fiducial*
+  * Fiducial msg added
+  * Fiducial msg added
+  * gitignore added
+  * Merge branch 'master' into devel
+  * header to msg/MarkerCandidate.msg added
+  * merge
+  * Added MarkerCandidate/Array messages.
+  * marker_msg type added
+  * Contributors: Markus Bader, Markus Bader @ munin, doctorseus
+
+ -- Markus Bader <markus.bader@tuwien.ac.at>  Thu, 29 Sep 2016 22:00:00 -0000
+
+ros-jade-marker-msgs (0.0.4-0utopic) utopic; urgency=high
+
+  * build system cleanup
+  * Contributors: Markus Bader
+
+ -- Markus Bader <markus.bader@tuwien.ac.at>  Wed, 17 Aug 2016 22:00:00 -0000
+
+ros-jade-marker-msgs (0.0.3-0utopic) utopic; urgency=high
+
+  * detection type added
+  * Contributors: Markus Bader
+
+ -- Markus Bader <markus.bader@tuwien.ac.at>  Tue, 16 Aug 2016 22:00:00 -0000
+
+ros-jade-marker-msgs (0.0.2-0utopic) utopic; urgency=high
+
+  * Added support of multiple ids with confidence
+  * msgs added
+  * Initial commit
+  * Contributors: Markus Bader, Markus Macsek
+
+ -- Markus Bader <markus.bader@tuwien.ac.at>  Tue, 19 Jul 2016 22:00:00 -0000
+
+
