@@ -1,3 +1,26 @@
+## marker_msgs (indigo) - 0.0.5-0
+
+The packages in the `marker_msgs` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo marker_msgs --edit` on `Sun, 06 Nov 2016 15:58:26 -0000`
+
+The `marker_msgs` package was released.
+
+Version of package(s) in repository `marker_msgs`:
+
+- upstream repository: https://github.com/tuw-robotics/marker_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## marker_msgs (jade) - 0.0.5-0
 
 The packages in the `marker_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade marker_msgs --edit` on `Sun, 06 Nov 2016 15:48:25 -0000`
