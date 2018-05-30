@@ -1,3 +1,26 @@
+## foo (kinetic) - 0.0.5-1
+
+The packages in the `foo` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release foo --track kinetic --rosdistro kinetic` on `Wed, 30 May 2018 12:34:27 -0000`
+
+The `marker_msgs` package was released.
+
+Version of package(s) in repository `foo`:
+
+- upstream repository: https://github.com/tuw-robotics/marker_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.5-0`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.2`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## marker_msgs (melodic) - 0.0.5-0
 
 The packages in the `marker_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release marker_msgs --track melodic --rosdistro melodic` on `Thu, 03 May 2018 10:38:12 -0000`
