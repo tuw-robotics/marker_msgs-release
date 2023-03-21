@@ -1,3 +1,26 @@
+## marker_msgs (humble) - 0.0.8-3
+
+The packages in the `marker_msgs` repository were released into the `humble` distro by running `/usr/bin/bloom-release --new-track --rosdistro humble --track humble marker_msgs` on `Tue, 21 Mar 2023 21:14:54 -0000`
+
+The `marker_msgs` package was released.
+
+Version of package(s) in repository `marker_msgs`:
+
+- upstream repository: https://github.com/tuw-robotics/marker_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.8-2`
+- new version: `0.0.8-3`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## marker_msgs (rolling) - 0.0.8-1
 
 The packages in the `marker_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --new-track --rosdistro rolling --track rolling marker_msgs` on `Sun, 19 Mar 2023 21:26:18 -0000`
