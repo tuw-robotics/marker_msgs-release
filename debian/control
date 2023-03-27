@@ -1,0 +1,13 @@
+Source: ros-foxy-marker-msgs
+Section: misc
+Priority: optional
+Maintainer: Markus Bader <markus.bader@tuwien.ac.at>
+Build-Depends: debhelper (>= 9.0.0), ros-foxy-ament-cmake, ros-foxy-ament-lint-common <!nocheck>, ros-foxy-builtin-interfaces, ros-foxy-geometry-msgs, ros-foxy-rosidl-default-generators, ros-foxy-std-msgs, ros-foxy-ros-workspace, ros-foxy-rosidl-typesupport-fastrtps-c, ros-foxy-rosidl-typesupport-fastrtps-cpp, ros-foxy-rosidl-typesupport-connext-c, ros-foxy-rosidl-typesupport-connext-cpp
+Homepage: http://wiki.ros.org/marker_msgs
+Standards-Version: 3.9.2
+
+Package: ros-foxy-marker-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-foxy-builtin-interfaces, ros-foxy-geometry-msgs, ros-foxy-rosidl-default-runtime, ros-foxy-std-msgs, ros-foxy-ros-workspace
+Description: The marker_msgs package contains messages usable to setup a marker/fiducial system.
+ The package distinguishes between two types of messages. First messages to describe the properties of a marker/fiducial detection system and the detected markers. Secondly messages used to represent a map of markers/features with covariances as it would be produced by a SLAM system or published by a map server for self-localization.
