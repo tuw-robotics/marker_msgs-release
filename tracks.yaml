@@ -190,7 +190,7 @@ tracks:
     last_version: 0.0.8
     name: marker_msgs
     patches: null
-    release_inc: '3'
+    release_inc: '4'
     release_repo_url: https://github.com/tuw-robotics/marker_msgs-release.git
     release_tag: :{version}
     ros_distro: rolling
