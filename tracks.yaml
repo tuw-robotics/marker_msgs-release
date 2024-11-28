@@ -193,7 +193,7 @@ tracks:
     release_inc: '3'
     release_repo_url: https://github.com/tuw-robotics/marker_msgs-release.git
     release_tag: :{version}
-    ros_distro: foxy
+    ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/tuw-robotics/marker_msgs.git
     version: :{auto}
